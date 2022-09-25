@@ -1,9 +1,9 @@
 # Creality Ender3 v2 Banta Mount
 Silent head upgrade for creality ender 3 V2 banta mount
 
-This upgrade inspired by some mod that I've seen the only what original frmo this mod it's cooling ir tubes (fangs).
+This upgrade inspired by some mod that I've seen the only what original from this mod it's cooling air tubes (fangs).
 
-Base designed to allow mount crtouch with original mount hook, two airflow tubes(it can be used just with one but better two) and led strip holder with sesnsor button.
+Base redesigned to allow original hotend place (on the metal plate), mount crtouch with native mount hook, two airflow tubes(it can be used just with one but better two) and led strip holder with sesnsor button.
 
 What you need for this mod:
 - Noctua NF-A4x20 FLX - 3 pcs (or any other silent 40mm cooler with acceptable noise level)
