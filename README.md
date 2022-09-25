@@ -5,6 +5,9 @@ This upgrade inspired by some mod that I've seen the only what original from thi
 
 Base redesigned to allow original hotend place (on the metal plate), mount crtouch with native mount hook, two airflow tubes(it can be used just with one but better two) and led strip holder with sesnsor button.
 
+<img src="https://user-images.githubusercontent.com/25594311/192141425-510de61c-dc2c-4093-9287-363bcab2d228.png" width="50%"></img> 
+
+
 What you need for this mod:
 - Noctua NF-A4x20 FLX - 3 pcs (or any other silent 40mm cooler with acceptable noise level)
 - LM2596s DC-DC step-down power supply module - 2 pcs (again you can get any other converter to convert 24V to 12V)
@@ -16,5 +19,8 @@ What you need for this mod:
 - enough dust mesh to cut 3 pcs 40x40mm
 - cable ties
 
+LED highlight
+- Touch Sensor Dimmable Switch 5-24V, Hole 10mm
+- led strip (I've managed to put four pices)
 
 
