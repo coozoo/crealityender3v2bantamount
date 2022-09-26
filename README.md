@@ -5,7 +5,7 @@ This upgrade inspired by some mod that I've seen the only what original left fro
 
 Base redesigned to allow original hotend place (on the metal plate), mount crtouch with native mount hook, two airflow tubes(it can be used just with one but better two) and led strip holder with sesnsor button.
 
-<img src="https://user-images.githubusercontent.com/25594311/192141425-510de61c-dc2c-4093-9287-363bcab2d228.png" width="50%"></img> <img src="https://user-images.githubusercontent.com/25594311/192141442-64aaa2a4-7aef-4204-8ecb-fcd19965249c.png" width="50%"></img> 
+<img src="https://user-images.githubusercontent.com/25594311/192141425-510de61c-dc2c-4093-9287-363bcab2d228.png" width="40%"></img> <img src="https://user-images.githubusercontent.com/25594311/192141442-64aaa2a4-7aef-4204-8ecb-fcd19965249c.png" width="40%"></img> 
 
 
 What you need for this mod:
