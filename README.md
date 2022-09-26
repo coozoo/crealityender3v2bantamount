@@ -23,4 +23,9 @@ LED highlight
 - Touch Sensor Dimmable Switch 5-24V, Hole 10mm
 - led strip (I've managed to put four pices)
 
+base_body.stl
 
+Use some high temperature plastics like ABS+.
+Print with support.
+
+<img src="https://user-images.githubusercontent.com/25594311/192141297-a5dc3bf5-6590-4be8-a0a2-7abb5ba8c9a0.png" width="50%"> </img><img src="https://user-images.githubusercontent.com/25594311/192141384-f37932f4-ae91-43ba-8c5d-51564c5e593e.png" width="37%"></img> 
