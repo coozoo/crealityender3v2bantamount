@@ -47,5 +47,9 @@ Again here you caan use PLA plastic.
 
 It is required support.
 
+Print orientation like on CURA screenshot below.
+
+<img src="https://user-images.githubusercontent.com/25594311/192212047-2e2fda26-7769-4383-85af-461713ad77d7.png" width="50%"> 
+
 <img src="https://user-images.githubusercontent.com/25594311/192141291-a37b2995-2f5f-4b6a-a60e-a76e378492bf.png" width="50%"> 
 
