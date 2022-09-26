@@ -1,7 +1,7 @@
 # Creality Ender3 v2 Banta Mount
 Silent head upgrade for creality ender 3 V2 banta mount
 
-This upgrade inspired by some mod that I've seen the only what original from this mod it's cooling air tubes (fangs).
+This upgrade inspired by some mod that I've seen the only what original left from this mod it's cooling air tubes (fangs).
 
 Base redesigned to allow original hotend place (on the metal plate), mount crtouch with native mount hook, two airflow tubes(it can be used just with one but better two) and led strip holder with sesnsor button.
 
@@ -23,9 +23,29 @@ LED highlight
 - Touch Sensor Dimmable Switch 5-24V, Hole 10mm
 - led strip (I've managed to put four pices)
 
-base_body.stl
+## base_body.stl
 
 Use some high temperature plastics like ABS+.
-Print with support.
+
+Print with support, overhang 60°.
+
+Beter with brim to prevent bending at bottom.
 
 <img src="https://user-images.githubusercontent.com/25594311/192141297-a5dc3bf5-6590-4be8-a0a2-7abb5ba8c9a0.png" width="50%"> </img><img src="https://user-images.githubusercontent.com/25594311/192141384-f37932f4-ae91-43ba-8c5d-51564c5e593e.png" width="37%"></img> 
+
+## BantaMount-Fang-Dual40mm.stl
+
+I've printed everything with the same ABS+ plaastic but for air tubes you can use even PLA.
+
+Fangs are not required support.
+
+<img src="https://user-images.githubusercontent.com/25594311/192141295-0819f22c-49e9-4ff6-8b40-f5af442e05f8.png" width="50%"> 
+
+## ledstripmount.stl
+
+Again here you caan use PLA plastic.
+
+It is required support.
+
+<img src="https://user-images.githubusercontent.com/25594311/192141291-a37b2995-2f5f-4b6a-a60e-a76e378492bf.png" width="50%"> 
+
